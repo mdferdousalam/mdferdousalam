@@ -108,7 +108,15 @@ Here are a few projects I've worked on:
 
 ## 📈 GitHub Stats
 
+![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdferdousalam&theme=radical)
+
 ![Md Ferdous Alam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdferdousalam&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdferdousalam&layout=compact&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mdferdousalam&theme=radical)
+
+
 
 ## 🌐 Services
 
