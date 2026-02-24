@@ -1,12 +1,12 @@
 # Md Ferdous Alam
 
-Full-stack TypeScript developer at [Fintant](https://github.com/FintantAI). I build web applications with NestJS, Next.js, and MongoDB. M.Sc. in CSE from Islamic University, Bangladesh.
+Full-stack developer at [Fintant](https://github.com/FintantAI). Building web applications and microservices with TypeScript, Go, and Rust. M.Sc. in CSE from Islamic University, Bangladesh.
 
 ---
 
 ## Tech Stack
 
-**Languages:** TypeScript, JavaScript, Go
+**Languages:** TypeScript, JavaScript, Go, Rust, Python
 
 **Frontend:** React, Next.js, Tailwind CSS, Redux, Ant Design
 
@@ -14,29 +14,48 @@ Full-stack TypeScript developer at [Fintant](https://github.com/FintantAI). I bu
 
 **Databases:** MongoDB, PostgreSQL, Redis
 
-**DevOps:** Docker, Nginx, Vercel, GitHub Actions
+**Infrastructure:** Docker, Nginx, Terraform, GitHub Actions, Vercel
 
 ---
 
-## Work
+## Work & Organizations
 
-**Fintant** | [@FintantAI](https://github.com/FintantAI) | Feb 2023 - Present
+**[Fintant](https://github.com/FintantAI)** | Feb 2023 - Present
+Full-stack fintech development. 6MB+ TypeScript codebase across server and frontend. Reduced server costs by 50% through architecture optimization, improved CI/CD efficiency by 60%.
+`TypeScript` `NestJS` `MongoDB` `Next.js` `Docker`
 
-Building fintech products - full-stack development with NestJS, MongoDB, and Next.js. Reduced server costs by 50% through architecture optimization and improved CI/CD efficiency by 60%.
+**[KlikkAI](https://github.com/KlikkAI)**
+AI workflow automation platform. Contributing to klikkflow (multi-language: TypeScript, Go, Python, Rust) and RepoRunner.
+`TypeScript` `Go` `Python` `Rust` `Terraform`
 
-**Other organizations I contribute to:**
+**[Daak-Harkara](https://github.com/Daak-Harkara)**
+Microservices platform with 20+ services: shared auth platform, SSL certificate management, proxy service, PaaS, SEO tools, mailer, FFmpeg services, decentralized computing, and more.
+`Go` `Rust` `TypeScript` `Docker` `Shell`
 
-- [@KlikkAI](https://github.com/KlikkAI) - AI workflow automation (klikkflow, RepoRunner)
-- [@Daak-Harkara](https://github.com/Daak-Harkara) - Microservices platform with shared auth, proxy service, and PaaS (Go + TypeScript)
-- [@growitrapid](https://github.com/growitrapid) - Freelance solutions platform
-- [@pixelo-org](https://github.com/pixelo-org) - Social media engagement tools
+**[Grow IT Rapid](https://github.com/growitrapid)**
+Freelance solutions platform with auth system, course scraper, and admin panel.
+`TypeScript` `Next.js`
+
+**[Pixelo](https://github.com/pixelo-org)**
+Social media engagement tools - frontend, backend, and email services.
+`TypeScript` `JavaScript`
 
 ---
 
 ## Open Source Contributions
 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Case-insensitive Git error matching ([merged](https://github.com/go-gitea/gitea/pulls?q=is%3Apr+author%3Amdferdousalam+is%3Amerged))
-- [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine) - Case-insensitive Git error matching ([merged](https://github.com/boostsecurityio/poutine/pulls?q=is%3Apr+author%3Amdferdousalam+is%3Amerged))
+**Merged:**
+- [go-gitea/gitea](https://github.com/go-gitea/gitea/pull/36728) - Case-insensitive Git error matching
+- [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine/pull/389) - Case-insensitive Git error matching
+
+**Git project** (via [gitgitgadget](https://github.com/gitgitgadget/git)):
+- [doc: format config values with backticks](https://github.com/gitgitgadget/git/pull/2055)
+- [t0050: use explicit branch name and verify checkout result](https://github.com/gitgitgadget/git/pull/2054)
+- [merge-base, ls-remote, ls-tree: fix error message formatting](https://github.com/gitgitgadget/git/pull/2053)
+- [die: lowercase error messages in cat-file and related commands](https://github.com/gitgitgadget/git/pull/2052)
+- [doc: commit: document special date keywords for --date](https://github.com/gitgitgadget/git/pull/2051)
+
+Also submitted patches to [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis), [elastic/docs](https://github.com/elastic/docs), [harness/harness](https://github.com/harness/harness), [Bearer/bearer](https://github.com/Bearer/bearer), [gogs/gogs](https://github.com/gogs/gogs), [datalad/datalad](https://github.com/datalad/datalad), and others.
 
 ---
 
@@ -66,7 +85,7 @@ RESTful API for e-commerce with product catalog, cart, and order management.
 
 ## GitHub Stats
 
-> Most of my work is in private organization repos. Enable "Private contributions" on my profile to see the full picture.
+> Most of my contributions (955+ PRs, 3K+ contributions) are in private organization repos.
 
 ![Md Ferdous Alam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdferdousalam&show_icons=true&include_all_commits=true&theme=default)
 
