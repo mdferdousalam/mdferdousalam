@@ -15,7 +15,13 @@
 
 ### About
 
-Software developer at [**Fintant**](https://github.com/FintantAI) with an M.Sc. in CSE from Islamic University, Bangladesh. I work across the full stack — from React frontends to Go microservices to Rust backends. Most of my 955+ PRs and 3K+ contributions live in private org repos.
+I build fintech products at [**Fintant**](https://github.com/FintantAI), architect a 20+ microservice platform at [**Daak-Harkara**](https://github.com/Daak-Harkara), and contribute to AI workflow tooling at [**KlikkAI**](https://github.com/KlikkAI). Day to day, I write TypeScript and Go — but I also reach for Rust and Python when the problem calls for it. I contribute to open source projects like [Gitea](https://github.com/go-gitea/gitea) and [Git](https://github.com/gitgitgadget/git), and hold an M.Sc. in CSE from Islamic University, Bangladesh.
+
+<div align="center">
+
+`955+ PRs` &nbsp;&nbsp; `3,000+ contributions` &nbsp;&nbsp; `5 organizations` &nbsp;&nbsp; `51 repos contributed to`
+
+</div>
 
 ---
 
@@ -100,17 +106,28 @@ Software developer at [**Fintant**](https://github.com/FintantAI) with an M.Sc. 
 
 ### Open Source Contributions
 
-| Project | PR | Status |
-|---------|-----|--------|
-| [**go-gitea/gitea**](https://github.com/go-gitea/gitea) | [Case-insensitive Git error matching](https://github.com/go-gitea/gitea/pull/36728) | Merged |
-| [**boostsecurityio/poutine**](https://github.com/boostsecurityio/poutine) | [Case-insensitive Git error matching](https://github.com/boostsecurityio/poutine/pull/389) | Merged |
-| [**gitgitgadget/git**](https://github.com/gitgitgadget/git) | [Format config values with backticks](https://github.com/gitgitgadget/git/pull/2055) | Submitted |
-| [**gitgitgadget/git**](https://github.com/gitgitgadget/git) | [Use explicit branch name in t0050](https://github.com/gitgitgadget/git/pull/2054) | Submitted |
-| [**gitgitgadget/git**](https://github.com/gitgitgadget/git) | [Fix error message formatting](https://github.com/gitgitgadget/git/pull/2053) | Submitted |
-| [**gitgitgadget/git**](https://github.com/gitgitgadget/git) | [Lowercase error messages in cat-file](https://github.com/gitgitgadget/git/pull/2052) | Submitted |
-| [**gitgitgadget/git**](https://github.com/gitgitgadget/git) | [Document date keywords for --date](https://github.com/gitgitgadget/git/pull/2051) | Submitted |
+**Merged PRs**
 
-Also submitted patches to [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis), [elastic/docs](https://github.com/elastic/docs), [harness/harness](https://github.com/harness/harness), [Bearer/bearer](https://github.com/Bearer/bearer), [gogs/gogs](https://github.com/gogs/gogs), [datalad/datalad](https://github.com/datalad/datalad), and [others](https://github.com/pulls?q=is%3Apr+author%3Amdferdousalam+archived%3Afalse+is%3Apublic).
+| Project | Contribution |
+|---------|-------------|
+| [**go-gitea/gitea**](https://github.com/go-gitea/gitea) | [Case-insensitive Git error matching](https://github.com/go-gitea/gitea/pull/36728) — fix for cross-platform Git error handling in Gitea's self-hosted Git service |
+| [**boostsecurityio/poutine**](https://github.com/boostsecurityio/poutine) | [Case-insensitive Git error matching](https://github.com/boostsecurityio/poutine/pull/389) — same fix applied to BoostSecurity's CI/CD security scanner |
+
+**Git project** (via [gitgitgadget](https://github.com/gitgitgadget/git)) — documentation and test improvements for the Git version control system:
+
+| Area | PR |
+|------|-----|
+| Docs | [Format config values with backticks](https://github.com/gitgitgadget/git/pull/2055) |
+| Docs | [Document special date keywords for `--date`](https://github.com/gitgitgadget/git/pull/2051) |
+| Tests | [Use explicit branch name and verify checkout in t0050](https://github.com/gitgitgadget/git/pull/2054) |
+| Error messages | [Fix formatting in merge-base, ls-remote, ls-tree](https://github.com/gitgitgadget/git/pull/2053) |
+| Error messages | [Lowercase die() messages in cat-file and related commands](https://github.com/gitgitgadget/git/pull/2052) |
+
+**Other projects I've submitted patches to:**
+
+[Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) &middot; [elastic/docs](https://github.com/elastic/docs) &middot; [harness/harness](https://github.com/harness/harness) &middot; [Bearer/bearer](https://github.com/Bearer/bearer) &middot; [gogs/gogs](https://github.com/gogs/gogs) &middot; [datalad/datalad](https://github.com/datalad/datalad) &middot; [fli-iam/shanoir-ng](https://github.com/fli-iam/shanoir-ng) &middot; [sheerun/prettier-standard](https://github.com/sheerun/prettier-standard) &middot; [NibbleByte/UnityWiseGit](https://github.com/NibbleByte/UnityWiseGit) &middot; [metaborg/gitonium](https://github.com/metaborg/gitonium)
+
+[View all my public PRs &rarr;](https://github.com/pulls?q=is%3Apr+author%3Amdferdousalam+archived%3Afalse+is%3Apublic)
 
 ---
 
